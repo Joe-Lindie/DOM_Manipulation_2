@@ -50,3 +50,11 @@ button {
   padding: 3px;
   background-color: transparent;
 }
+button:hover {
+  color: aqua;
+}
+
+ul {
+  padding-bottom: 1rem;
+  font-size: 0.9rem
+  };
